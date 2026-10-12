@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547338314533",
+    "firebase_url": "https://mm-islamic-erp-default-rtdb.firebaseio.com",
+    "project_id": "mm-islamic-erp",
+    "storage_bucket": "mm-islamic-erp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547338314533:android:5efc01478a86238c1170cc",
+        "android_client_info": {
+          "package_name": "com.mmislamic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547338314533-r27vefad2hc4cjl6fmfm1dfq6qrmo95k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmislamic.app",
+            "certificate_hash": "e5236a7441632d956758342131a376e6b2a53151"
+          }
+        },
+        {
+          "client_id": "547338314533-870rl2o2lak34kaascp7a5e1s0or30s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4aYUczSi3cdP00a0EClgibtQPojrXN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547338314533-870rl2o2lak34kaascp7a5e1s0or30s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
